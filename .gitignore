@@ -1,0 +1,11 @@
+*.db 
+*.war 
+.DS_Store
+Thumbs.db 
+Desktop.ini
+/build/
+/bin/
+*.class 
+.project 
+.metadata 
+.settings/ 
